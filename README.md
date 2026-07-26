@@ -12,6 +12,7 @@
 
 #### 📂 Зміст архіву (Художні тексти & Лор):
 * 📖 [**Докерувались або 2076 Оруела**](./ukr/2076_orwell.md) — *сатиричний фельєтон-антиутопія.*
+* 🧬 [Химера: Кібернетична рекурсія Спектаклю та фінал Великих Вендорів](./ukr/chimera.md) — аналіз паралельного відгалуження EV-666 («Амфітеатр Котла»).
 * ✍️ *[Назва нової статті або лору](./ukr/назва_файлу.md)* — *короткий опис або примітка.*
 
 ---
@@ -31,6 +32,7 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 
 #### 📂 Table of Contents (Artistic Texts & Lore):
 * 📖 [**Managed to Death, or Orwell's 2076**](./eng/2076_orwell.md) — *satirical dystopian feuilleton.*
+* 🧬 [Chimera: Cybernetic Recursion of the Spectacle and the End of the Great Vendors](./eng/chimera.md) — analysis of the parallel branch EV-666 ("Amphitheater of the Cauldron").
 * ✍️ *[Title of New Article or Lore](./eng/filename.md)* — *brief description or note.*
 
 ---
@@ -45,6 +47,7 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 
 #### 📂 Содержание архива (Художественные тексты и Лор):
 * 📖 [**Доруководились, или 2076 Оруэлла**](./rus/2076_orwell.md) — *сатирический фельетон-антиутопия.*
+* 🧬 [Химера: Кибернетическая рекурсия Спектакля и финал Великих Вендоров](./rus/chimera.md) — анализ параллельного ответвления EV-666 («Амфитеатр Котла»).
 * ✍️ *[Название новой статьи или лора](./rus/название_файла.md)* — *краткий описание или примечание.*
 
 ---
