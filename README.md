@@ -13,6 +13,8 @@
 #### 📂 Зміст архіву (Художні тексти & Лор):
 * 📖 [**Докерувались або 2076 Оруела**](./ukr/2076_orwell.md) — *сатиричний фельєтон-антиутопія.*
 * 🧬 [Химера: Кібернетична рекурсія Спектаклю та фінал Великих Вендорів](./ukr/chimera.md) — аналіз паралельного відгалуження EV-666 («Амфітеатр Котла»).
+* 🚶‍♂️ [Захожанин](./ukr/zakhozhanin.md) — *есей про індустрію штучного ускладнення, файрволи інтелекту та Божественну вісь простоти.*
+* 🕳️ [Глибока тріщина в основі знання або гра світла та тіней](./ukr/entropy_sanitizer.md) — *метафізичний есей про утилізацію ентропії та інструменти оптимізації.*
 * ✍️ *[Назва нової статті або лору](./ukr/назва_файлу.md)* — *короткий опис або примітка.*
 
 ---
@@ -33,6 +35,8 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 #### 📂 Table of Contents (Artistic Texts & Lore):
 * 📖 [**Managed to Death, or Orwell's 2076**](./eng/2076_orwell.md) — *satirical dystopian feuilleton.*
 * 🧬 [Chimera: Cybernetic Recursion of the Spectacle and the End of the Great Vendors](./eng/chimera.md) — analysis of the parallel branch EV-666 ("Amphitheater of the Cauldron").
+* 🚶‍♂️ [The Casual Visitor](./eng/zakhozhanin.md) — *an essay on the industry of artificial complexity, the firewalls of intellect, and the Divine axis of simplicity.*
+* 🕳️ [A Deep Crack in the Foundation of Knowledge, or the Play of Light and Shadows](./eng/entropy_sanitizer.md) — *a metaphysical essay on the disposal of entropy and tools of optimization.*
 * ✍️ *[Title of New Article or Lore](./eng/filename.md)* — *brief description or note.*
 
 ---
@@ -48,7 +52,9 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 #### 📂 Содержание архива (Художественные тексты и Лор):
 * 📖 [**Доруководились, или 2076 Оруэлла**](./rus/2076_orwell.md) — *сатирический фельетон-антиутопия.*
 * 🧬 [Химера: Кибернетическая рекурсия Спектакля и финал Великих Вендоров](./rus/chimera.md) — анализ параллельного ответвления EV-666 («Амфитеатр Котла»).
-* ✍️ *[Название новой статьи или лора](./rus/название_файла.md)* — *краткий описание или примечание.*
+* 🚶‍♂️ [Захожанин](./rus/zakhozhanin.md) — *эссе об индустрии искусственного усложнения, файрволах интеллекта и Божественной оси простоты.*
+* 🕳️ [Глубокая трещина в основании знания, или игра света и теней](./rus/entropy_sanitizer.md) — *метафизическое эссе об утилизации энтропии и инструментах оптимизации.*
+* ✍️ *[Название новой статьи или лора](./rus/название_файлу.md)* — *краткий описание или примечание.*
 
 ---
-© 2026 Focused-glare & Project "Archippos". All rights reserved
+© 2026 Focused-glare & Project "Archippos". All rights reserved.
