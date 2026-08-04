@@ -29,4 +29,6 @@
 
 
 ---
+© 2026 Focused-glare & Project "Archippos". All rights reserved.
+
 [← Повернутися до Змісту](../README.md#ukr-українська) | [Правовий Щит](../LICENSE.md)
