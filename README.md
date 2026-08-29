@@ -10,12 +10,14 @@
 * 🛡️ [Правовий Щит та Ліцензування](LICENSE.md) — преамбула Суверена та умови захисту сенсів.
 * 📜 [Архів Підтримки Взаємодії](SUPPORT.md) — канали прямого зв'язку, криптографічні реквізити та координація.
 
-#### 📂 Зміст архіву (Художні тексти & Лор):
+#### 📂 Зміст архіву (Художні тексти, Маніфести & Серія Публікацій):
 * 📖 [**Докерувались або 2076 Оруела**](./ukr/2076_orwell.md) — *сатиричний фельєтон-антиутопія.*
 * 🧬 [Химера: Кібернетична рекурсія Спектаклю та фінал Великих Вендорів](./ukr/chimera.md) — аналіз паралельного відгалуження EV-666 («Амфітеатр Котла»).
 * 🚶‍♂️ [Захожанин](./ukr/zakhozhanin.md) — *есей про індустрію штучного ускладнення, файрволи інтелекту та Божественну вісь простоти.*
 * 🕳️ [Глибока тріщина в основі знання або гра світла та тіней](./ukr/entropy_sanitizer.md) — *метафізичний есей про утилізацію ентропії та інструменти оптимізації.*
-* ✍️ *[Назва нової статті або лору](./ukr/назва_файлу.md)* — *короткий опис або примітка.*
+* ⚖️ [**Прожектор Порогу проти Прожектора Big Data**](./ukr/threshold_glare.md) — *Маніфест суверенної юстиції XXI століття та план серії публікацій.*
+* 🏛️ [**Публікація 1. Тризонна Топологія: Де закінчується держава і починається суверенітет**](./ukr/three_zone_topology.md) — *Анатомія тертя, інверсія цифрового акваріума та Схолія про Big Data двигуни.*
+* ✍️ Назва нової статті або лору — короткий опис або примітка.
 
 ---
 
@@ -32,29 +34,33 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 * 🛡️ [Legal Shield & Licensing](LICENSE.md) — Sovereign preamble and dual-licensing terms.
 * 📜 [Pledge & Support Archive](SUPPORT.md) — direct communication channels, cryptographic credentials, and coordination.
 
-#### 📂 Table of Contents (Artistic Texts & Lore):
+#### 📂 Table of Contents (Artistic Texts, Manifestos & Publication Series):
 * 📖 [**Managed to Death, or Orwell's 2076**](./eng/2076_orwell.md) — *satirical dystopian feuilleton.*
 * 🧬 [Chimera: Cybernetic Recursion of the Spectacle and the End of the Great Vendors](./eng/chimera.md) — analysis of the parallel branch EV-666 ("Amphitheater of the Cauldron").
 * 🚶‍♂️ [The Casual Visitor](./eng/zakhozhanin.md) — *an essay on the industry of artificial complexity, the firewalls of intellect, and the Divine axis of simplicity.*
 * 🕳️ [A Deep Crack in the Foundation of Knowledge, or the Play of Light and Shadows](./eng/entropy_sanitizer.md) — *a metaphysical essay on the disposal of entropy and tools of optimization.*
-* ✍️ *[Title of New Article or Lore](./eng/filename.md)* — *brief description or note.*
+* ⚖️ [**Threshold Glare vs. Big Data Searchlight**](./eng/threshold_glare.md) — *Manifesto of 21st century sovereign justice and publication plan.*
+* 🏛️ [**Publication 1. Three-Zone Topology: Where the State Ends and Sovereignty Begins**](./eng/three_zone_topology.md) — *Anatomy of friction, inversion of the digital aquarium, and Scholia on Big Data engines.*
+* ✍️ Name of new article or lore — short description or note.
 
 ---
 
 ### [RUS] Russian
 
-Этот репозиторий представляет собой суверенное цифровое пространство в рамках **Project "Archippos"** — пространство чистого семантического смысла, изъятое из логики алгоритмических лент и социоинженерного манипулирования вниманием. Здесь фиксируются художественные, философские, мировоззренческие и прикладные материалы проекта. Этот file будет систематически обновляться новыми активными ссылками по мере деплоя и выхода новых публикаций.
+Этот репозиторий представляет собой суверенное цифровое пространство в рамках **Project "Archippos"** — пространство чистого семантического смысла, изъятое из логики алгоритмических лент и социоинженерного манипулирования вниманием. Здесь фиксируются художественные, философские, мировоззренческие и прикладные материалы проекта. Этот файл будет систематически обновляться новыми активными ссылками по мере деплоя и выхода новых публикаций.
 
 #### Навигация контура:
 * 🛡️ [Правовой Щит и Лицензирование](LICENSE.md) — преамбула Суверена и условия защиты смыслов.
 * 📜 [Архив Поддержки Взаимодействия](SUPPORT.md) — координаты прямой связи, криптографические реквизиты и координация.
 
-#### 📂 Содержание архива (Художественные тексты и Лор):
+#### 📂 Содержание архива (Художественные тексты, Манифесты и Серия Публикаций):
 * 📖 [**Доруководились, или 2076 Оруэлла**](./rus/2076_orwell.md) — *сатирический фельетон-антиутопия.*
 * 🧬 [Химера: Кибернетическая рекурсия Спектакля и финал Великих Вендоров](./rus/chimera.md) — анализ параллельного ответвления EV-666 («Амфитеатр Котла»).
 * 🚶‍♂️ [Захожанин](./rus/zakhozhanin.md) — *эссе об индустрии искусственного усложнения, файрволах интеллекта и Божественной оси простоты.*
 * 🕳️ [Глубокая трещина в основании знания, или игра света и теней](./rus/entropy_sanitizer.md) — *метафизическое эссе об утилизации энтропии и инструментах оптимизации.*
-* ✍️ *[Название новой статьи или лора](./rus/название_файлу.md)* — *краткий описание или примечание.*
+* ⚖️ [**Прожектор Порога против Прожектора Big Data**](./rus/threshold_glare.md) — *Манифест суверенной юстиции XXI века и план серии публикаций.*
+* 🏛️ [**Публікація 1. Трехзонная Топология: Где заканчивается государство и начинается суверенитет**](./rus/three_zone_topology.md) — *Анатомия трения, инверсия цифрового аквариума и Схолия о Big Data движках.*
+* ✍️ Название новой статьи или лора — краткое описание или примечание.
 
 ---
 © 2026 Focused-glare & Project "Archippos". All rights reserved.
