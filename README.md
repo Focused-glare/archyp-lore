@@ -17,6 +17,7 @@
 * 🕳️ [Глибока тріщина в основі знання або гра світла та тіней](./ukr/entropy_sanitizer.md) — *метафізичний есей про утилізацію ентропії та інструменти оптимізації.*
 * ⚖️ [**Прожектор Порогу проти Прожектора Big Data**](./ukr/threshold_glare.md) — *Маніфест суверенної юстиції XXI століття та план серії публікацій.*
 * 🏛️ [**Публікація 1. Тризонна Топологія: Де закінчується держава і починається суверенітет**](./ukr/three_zone_topology.md) — *Анатомія тертя, інверсія цифрового акваріума та Схолія про Big Data двигуни.*
+* 🌉 [**Від Автора // Місток між Публікацією 1 та Публікацією 2**](./ukr/author_bridge_1_2.md) — *Анотація методології дослідження, адаптивний цикл та статус репозиторію.*
 * ✍️ Назва нової статті або лору — короткий опис або примітка.
 
 ---
@@ -41,6 +42,7 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 * 🕳️ [A Deep Crack in the Foundation of Knowledge, or the Play of Light and Shadows](./eng/entropy_sanitizer.md) — *a metaphysical essay on the disposal of entropy and tools of optimization.*
 * ⚖️ [**Threshold Glare vs. Big Data Searchlight**](./eng/threshold_glare.md) — *Manifesto of 21st century sovereign justice and publication plan.*
 * 🏛️ [**Publication 1. Three-Zone Topology: Where the State Ends and Sovereignty Begins**](./eng/three_zone_topology.md) — *Anatomy of friction, inversion of the digital aquarium, and Scholia on Big Data engines.*
+* 🌉 [**Author's Note // Bridge between Publication 1 and Publication 2**](./eng/author_bridge_1_2.md) — *Annotation of research methodology, adaptive cycle, and repository status.*
 * ✍️ Name of new article or lore — short description or note.
 
 ---
@@ -59,7 +61,8 @@ This repository serves as a sovereign digital space within **Project "Archippos"
 * 🚶‍♂️ [Захожанин](./rus/zakhozhanin.md) — *эссе об индустрии искусственного усложнения, файрволах интеллекта и Божественной оси простоты.*
 * 🕳️ [Глубокая трещина в основании знания, или игра света и теней](./rus/entropy_sanitizer.md) — *метафизическое эссе об утилизации энтропии и инструментах оптимизации.*
 * ⚖️ [**Прожектор Порога против Прожектора Big Data**](./rus/threshold_glare.md) — *Манифест суверенной юстиции XXI века и план серии публикаций.*
-* 🏛️ [**Публікація 1. Трехзонная Топология: Где заканчивается государство и начинается суверенитет**](./rus/three_zone_topology.md) — *Анатомия трения, инверсия цифрового аквариума и Схолия о Big Data движках.*
+* 🏛️ [**Публикация 1. Трехзонная Топология: Где заканчивается государство и начинается суверенитет**](./rus/three_zone_topology.md) — *Анатомия трения, инверсия цифрового аквариума и Схолия о Big Data движках.*
+* 🌉 [**От Автора // Мостик между Публикацией 1 и Публикацией 2**](./rus/author_bridge_1_2.md) — *Аннотация методологии исследования, адаптивный цикл и статус репозитория.*
 * ✍️ Название новой статьи или лора — краткое описание или примечание.
 
 ---
